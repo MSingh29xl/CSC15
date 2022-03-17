@@ -1,0 +1,3 @@
+end = input(f"Do you want to continue? (y or n): ").lower()
+    if end == "y":
+        main()
